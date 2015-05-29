@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------------
 # Name:        Write  and read to text file.
-# Purpose:     Learning Python. Playing with writing and reading to text a text file in c:\
+# Purpose:     Learning Python. Playing with writing and reading to text a text file in c:\.
 #
 # Author:      Kjamimate
 #
