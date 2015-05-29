@@ -2,7 +2,7 @@
 # Name:        Write  and read to text file.
 # Purpose:     Learning Python. Playing with writing and reading to text a text file in c:\
 #
-# Author:      Kjamimate.
+# Author:      Kjamimate
 #
 # Created:     29/05/2015
 # Copyright:   (c) user 2015
